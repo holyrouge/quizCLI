@@ -1,10 +1,17 @@
-Abbreviate: to shorten, abridge
-Abstinence: the act of refraining from pleasurable activity, e.g., eating or drinking
-Adulation: high praise
-Adversity: misfortune, an unfavorable turn of events
-Aesthetic: pertaining to beauty or the arts
-Amicable: friendly, agreeable
-Anachronistic: out-of-date, not attributed to the correct historical period
-Anecdote: short, usually funny account of an event
-Anonymous: nameless, without a disclosed identity
-Antagonist: foe, opponent, adversary
+A: A
+B: B
+C: C
+D: D
+E: E
+F: F
+G: G
+H: H
+I: I
+J: J
+K: K
+L: L
+M: M
+N: N
+O: O
+P: P
+Q: Q
