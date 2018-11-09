@@ -3,7 +3,6 @@ Program Name: quizCLI
 Purpose: Command-line Quizlet
 
 Author: Prangon Ghose
-Last Updated: 11/07/2018
 '''
 import random
 from random import randrange
